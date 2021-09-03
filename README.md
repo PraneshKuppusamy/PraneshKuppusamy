@@ -1,6 +1,6 @@
 Hello , I’m Pranesh Kuppusamy
 
-With 6.3 years of technical consulting experience in Oracle Primavera Unifier, Oracle Fusion Application, Oracle E-Business Suite R12/11i Applications.
+With 6.4 years of technical consulting experience in Oracle Primavera Unifier, Oracle Fusion Application, Oracle E-Business Suite R12/11i Applications.
 
 Specializes in Oracle Fusion HCM, Financials, SCM, Project/Cash Management modules.
 
