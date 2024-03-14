@@ -1,3 +1,4 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=PraneshKuppusamy&label=Profile%20views&color=0e75b6&style=flat" alt="PraneshKuppusamy" /> </p>
 Hello , I’m Pranesh Kuppusamy
 
 With almost 9 years of technical consulting experience in Oracle Primavera Unifier, Oracle Fusion Application, Oracle E-Business Suite R12/11i Applications.
